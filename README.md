@@ -95,8 +95,7 @@
                 src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png"></g-emoji> Como baixar e
         rodar o projeto
     </h2>
-    ## 🗂 Como baixar e rodar o projeto
-
+   
 ```bash
     # Clone o repositório no github
     $ git clone https://github.com/gusmarques/stormBackEnd.git
