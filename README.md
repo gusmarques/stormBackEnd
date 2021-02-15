@@ -95,19 +95,21 @@
                 src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png"></g-emoji> Como baixar e
         rodar o projeto
     </h2>
-    <div class="highlight highlight-source-shell">
-        <pre>    <span class="pl-c"><span class="pl-c">#</span> Clone o repositório no github</span>
+    ## 🗂 Como baixar e rodar o projeto
+
+```bash
+    # Clone o repositório no github
     $ git clone https://github.com/gusmarques/stormBackEnd.git
     
-    <span class="pl-c"><span class="pl-c">#</span> Entre no diretório "stormBackEnd"</span>
-    $ <span class="pl-c1">cd</span> stormBackEnd
+    # Entre no diretório "stormBackEnd"
+    $ cd stormBackEnd
     
-    <span class="pl-c"><span class="pl-c">#</span> Rode um npm para instalar as dependências do projeto</span>
+    # Rode um npm para instalar as dependências do projeto
     $ npm install
 
-    <span class="pl-c"><span class="pl-c">#</span> De um start na aplicação</span>
-    $ npm start</pre>
-    
-    </div>
+    # De um start na aplicação
+    $ npm start
+```
+---
    
 </article>
